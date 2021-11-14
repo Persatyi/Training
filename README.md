@@ -1,2 +1,1 @@
-# Training
-Folder for trainings
+# goit-markup-hw-01
